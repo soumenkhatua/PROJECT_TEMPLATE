@@ -1,0 +1,5 @@
+flask                          #  /n bydefault its present everywhere
+pandas
+numpy
+-e .
+
